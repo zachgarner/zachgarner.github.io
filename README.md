@@ -1,5 +1,10 @@
 To run local dev server:
-  hugo server -D
+
+  With draft articles:
+    - hugo server -D
+
+  Without draft articles:
+    - hugo server
 
 To publish:
 
